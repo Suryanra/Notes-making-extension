@@ -5,7 +5,7 @@
 </h6>
 <h3>Lets make Life Easy 😎</h3>
 you can see live working of my project in one of my linkedIn post Video<br>
-<h4><a href="https://www.linkedin.com/feed/update/urn:li:activity:7160614997272788992/">Visit</a></h4>
+<h4><a href="https://www.linkedin.com/feed/update/urn:li:activity:7160614997272788992/">SEE LIVE WORKING</a></h4>
 
 
 <h4>Features</h4>
