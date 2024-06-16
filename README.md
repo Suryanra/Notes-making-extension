@@ -1,6 +1,29 @@
 # Notes-making-extension
-you can see working of my project in one of my linkedIn post<br>
+
+<h3>Lets make Life Easy 😎</h3>
+you can see live working of my project in one of my linkedIn post Video<br>
 <a>https://www.linkedin.com/feed/update/urn:li:activity:7160614997272788992/</a>
+
+<h4>Features</h4>
+<h6>
+  <ul>
+  <li>This extension allow you you to make note easily</li>
+  <li>you can curate your all notes at simgle points</li>
+  <li>you can make a new file and add notes there</li>
+  <li>you can make heading and bulletes points also</li>
+</ul>
+</h6>
+
+<h4>Technologies Used</h4>
+<h6>
+  <ul>
+  <li>Frontend: HTML, CSS, JavaScript</li>
+  <li>Backend: Nodejs, Expressjs, chrome extension Api </li>
+  <li>Storage: local storage of computer</li>
+</ul>
+</h6>
+
+
 
 Are you tired of the mundane task of copy and pasting information  let try this solution
 
